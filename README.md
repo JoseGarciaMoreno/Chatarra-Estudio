@@ -5,6 +5,8 @@ https://josegarciamoreno.github.io/Chatarra-Estudio/
 
 # Chatarra-Estudio
 
+https://raw.githubusercontent.com/JoseGarciaMoreno/Chatarra-Estudio/d3216593ad187b93a5b4016945beafb55258e888/imagen/chatarra348x97.png
+
 # Template_hmtl by Cyclo Pi Studio
 
 https://JoseGarciaMoreno.github.io/template_hmtl/index.html
