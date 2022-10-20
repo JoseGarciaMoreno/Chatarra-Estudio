@@ -14,3 +14,10 @@ https://raw.githubusercontent.com/JoseGarciaMoreno/Chatarra-Estudio/d3216593ad18
 https://JoseGarciaMoreno.github.io/template_hmtl/index.html
 
 Template html 5
+
+-----------------------------------------
+Collaborators and partners:
+
+Cyclo π Studio in Github https://cyclopistudio.github.io/
+
+greenfactory.es https://greenfactory.es/
