@@ -3,7 +3,7 @@ Página Web de Chatarra Estudio by Cyclo Pi Studio
 
 https://josegarciamoreno.github.io/Chatarra-Estudio/
 
-https://github.com/JoseGarciaMoreno/Chatarra-Estudio/wiki
+https://github.com/JoseGarciaMoreno/Chatarra-Estudio/wiki/Proyecto-de-p%C3%A1gina-de-Chatarra-Estudio
 
 # Chatarra-Estudio
 
