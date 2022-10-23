@@ -7,7 +7,9 @@ https://github.com/JoseGarciaMoreno/Chatarra-Estudio/wiki/Proyecto-de-p%C3%A1gin
 
 # Chatarra-Estudio
 
-https://raw.githubusercontent.com/JoseGarciaMoreno/Chatarra-Estudio/d3216593ad187b93a5b4016945beafb55258e888/imagen/chatarra348x97.png
+https://cyclopistudio.github.io/CyloPi-Studio-Web/desarrollo20M71/landing/calamar/juegazocalamar0.html
+
+https://cyclopistudio.github.io/CyloPi-Studio-Web/desarrollo20M71/landing/showroom/room1.html
 
 # Template_hmtl by Cyclo Pi Studio
 
