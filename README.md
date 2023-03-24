@@ -5,6 +5,10 @@ https://josegarciamoreno.github.io/Chatarra-Estudio/
 
 https://github.com/JoseGarciaMoreno/Chatarra-Estudio/wiki/Proyecto-de-p%C3%A1gina-de-Chatarra-Estudio
 
+https://cyclopistudio.github.io/CyloPi-Studio-Web/testing_2023/tamariz-II/game.html
+
+
+
 # Chatarra-Estudio
 
 Viejo logo
