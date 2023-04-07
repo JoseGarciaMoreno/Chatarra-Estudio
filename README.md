@@ -6,6 +6,10 @@ https://chatarra-estudio.github.io/
 
 https://josegarciamoreno.github.io/Chatarra-Estudio/
 
+Para editar:
+
+https://github.com/Chatarra-Estudio/chatarra-estudio.github.io
+
 https://github.com/JoseGarciaMoreno/Chatarra-Estudio/wiki/Proyecto-de-p%C3%A1gina-de-Chatarra-Estudio
 
 https://cyclopistudio.github.io/CyloPi-Studio-Web/testing_2023/tamariz-II/game.html
