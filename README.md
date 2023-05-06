@@ -2,6 +2,8 @@
 
 Página Web de Chatarra Estudio by Cyclo Pi Studio
 
+https://josegarciamoreno.github.io/Chatarra-Estudio/landing2023/modelotexto.html
+
 https://chatarra-estudio.github.io/
 
 https://josegarciamoreno.github.io/Chatarra-Estudio/
