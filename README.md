@@ -6,6 +6,8 @@ https://josegarciamoreno.github.io/Chatarra-Estudio/landing2023/lote23M13/23M13C
 
 https://josegarciamoreno.github.io/Chatarra-Estudio/landing2023/modelotexto.html
 
+https://josegarciamoreno.github.io/Chatarra-Estudio/landing2023/modelotexto_menu_subm.html
+
 https://chatarra-estudio.github.io/
 
 https://josegarciamoreno.github.io/Chatarra-Estudio/
