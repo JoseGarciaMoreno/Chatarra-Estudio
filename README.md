@@ -2,6 +2,8 @@
 
 Página Web de Chatarra Estudio by Cyclo Pi Studio
 
+https://raw.githubusercontent.com/JoseGarciaMoreno/Chatarra-Estudio/main/landing2023/crazytronCamion.png
+
 https://josegarciamoreno.github.io/Chatarra-Estudio/landing2023/modelotexto_menu_2022.html
 
 https://josegarciamoreno.github.io/Chatarra-Estudio/landing2023/lote23M13/23M13C_camara_positiva.html
