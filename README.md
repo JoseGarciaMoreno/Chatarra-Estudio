@@ -4,6 +4,8 @@ Página Web de Chatarra Estudio by Cyclo Pi Studio
 
 https://raw.githubusercontent.com/JoseGarciaMoreno/Chatarra-Estudio/main/landing2016/crazytrontruck.png
 
+![Cyclo pi](https://raw.githubusercontent.com/JoseGarciaMoreno/Chatarra-Estudio/main/landing2023/crazytronCamion.png)
+
 https://raw.githubusercontent.com/JoseGarciaMoreno/Chatarra-Estudio/main/imagen/25645174c.png
 
 https://raw.githubusercontent.com/JoseGarciaMoreno/Chatarra-Estudio/main/landing2023/crazytronCamion.png
