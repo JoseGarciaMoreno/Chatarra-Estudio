@@ -12,6 +12,27 @@ Plan:
 
 Recopilatorio 2017 cyclo pi usuario
 
+- Borrar repositorios: webimagen, Studio, Studio2
+
+-Sniper: Mini juego de prácticas de preparación de Game Jam 2017 
+
+-Sniper: Oct 25, 2017
+
+https://github.com/CycloPi/Sniper
+
+https://github.com/CycloPi/Sniper/network
+
+-Fibonacci-calculator: On Jul 17, 2017
+
+https://github.com/CycloPi/Fibonacci-calculator/
+
+https://github.com/CycloPi/Fibonacci-calculator/network
+
+https://raw.githubusercontent.com/JoseGarciaMoreno/Chatarra-Estudio/main/landing2016/calculadoraFibo.jpg
+
+-Follow-the-road: Jun 6, 2017
+
+
 https://github.com/CycloPi/Follow-the-road/network 
 
 https://github.com/CycloPi/Follow-the-road
