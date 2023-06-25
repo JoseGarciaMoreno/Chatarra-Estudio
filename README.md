@@ -4,6 +4,22 @@ Página Web de Chatarra Estudio by Cyclo Pi Studio
 
 https://github.com/Chatarra-Estudio/chatarra-estudio.github.io  GIT
 
+https://chatarra-estudio.github.io/
+
+https://josegarciamoreno.github.io/Chatarra-Estudio/
+
+Plan:
+
+Recopilatorio 2017 cyclo pi usuario
+
+https://github.com/CycloPi/Follow-the-road/network 
+
+https://github.com/CycloPi/Follow-the-road
+
+
+
+Info:
+
 https://josegar.itch.io/crazy-tron-truck-2017
 
 https://raw.githubusercontent.com/JoseGarciaMoreno/Chatarra-Estudio/main/landing2016/crazytrontruck.png
@@ -22,9 +38,6 @@ https://josegarciamoreno.github.io/Chatarra-Estudio/landing2023/modelotexto.html
 
 https://josegarciamoreno.github.io/Chatarra-Estudio/landing2023/modelotexto_menu_subm.html
 
-https://chatarra-estudio.github.io/
-
-https://josegarciamoreno.github.io/Chatarra-Estudio/
 
 Para editar:
 
