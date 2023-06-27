@@ -43,6 +43,8 @@ https://github.com/CycloPi/Follow-the-road
 
 Info:
 
+https://josegarciamoreno.github.io/Chatarra-Estudio/landing2023/acel02/character_3d-ace01.html
+
 https://josegar.itch.io/crazy-tron-truck-2017
 
 https://raw.githubusercontent.com/JoseGarciaMoreno/Chatarra-Estudio/main/landing2016/crazytrontruck.png
