@@ -8,7 +8,9 @@ https://chatarra-estudio.github.io/
 
 https://josegarciamoreno.github.io/Chatarra-Estudio/
 
-Plan:
+Plan (intercalando desarrollos actuales y recopilatorios):
+
+Recopilatorio 2018
 
 Recopilatorio 2017 cyclo pi usuario
 
