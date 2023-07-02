@@ -16,9 +16,12 @@ Recopilatorio 2017 cyclo pi usuario
 
 -- Borrar repositorios: webimagen, Studio, Studio2
 
-- Sniper: Mini juego de prácticas de preparación de Game Jam 2017 
-
+- Sniper: Mini juego de prácticas de preparación de Game Jam 2017
 - Sniper: Oct 25, 2017
+- https://godotengine.org/article/maintenance-release-godot-2-1-3/
+- https://archive.org/details/godot-2.1.3-stable
+
+Freeseer OBS Studio
 
 https://github.com/CycloPi/Sniper
 
