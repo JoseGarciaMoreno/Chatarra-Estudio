@@ -12,41 +12,12 @@ Plan (intercalando desarrollos actuales y recopilatorios):
 
 Recopilatorio 2018
 
-Motor
+Motor: Godot Engine de 2017
 - https://godotengine.org/article/maintenance-release-godot-2-1-3/
 - https://archive.org/details/godot-2.1.3-stable
 
+Crazy_Tron_Car: Feb 6, 2018
 - https://github.com/CycloPi/Crazy_Tron_Car_V.1.0/tree/39749e49f50ee1744a7ce45d84b24eb27f57edb3
-
-Recopilatorio 2017 cyclo pi usuario
-
--- Borrar repositorios: webimagen, Studio, Studio2
-
-- Sniper: Mini juego de prácticas de preparación de Game Jam 2017
-- Sniper: Oct 25, 2017
-- https://godotengine.org/article/maintenance-release-godot-2-1-3/
-- https://archive.org/details/godot-2.1.3-stable
-
-Freeseer OBS Studio
-
-https://github.com/CycloPi/Sniper
-
-https://github.com/CycloPi/Sniper/network
-
-- Fibonacci-calculator: On Jul 17, 2017
-
-https://github.com/CycloPi/Fibonacci-calculator/
-
-https://github.com/CycloPi/Fibonacci-calculator/network
-
-https://raw.githubusercontent.com/JoseGarciaMoreno/Chatarra-Estudio/main/landing2016/calculadoraFibo.jpg
-
-- Follow-the-road: Jun 6, 2017
-
-
-https://github.com/CycloPi/Follow-the-road/network 
-
-https://github.com/CycloPi/Follow-the-road
 
 
 
