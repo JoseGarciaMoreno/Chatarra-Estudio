@@ -17,7 +17,7 @@ Crazy_Tron_Car: Feb 6, 2018
 
 - https://raw.githubusercontent.com/JoseGarciaMoreno/Chatarra-Estudio/main/landing2016/car_clio.jpg
 
-Motor: Godot Engine de 2017
+- Motor: Godot Engine
 - https://godotengine.org/article/maintenance-release-godot-2-1-3/
 - https://archive.org/details/godot-2.1.3-stable
 
@@ -34,6 +34,12 @@ Recopilatorio 2019
 * https://godotengine.org/article/godot-3-1-released/
 
 * https://archive.org/details/godot-3.1-stable
+  
+https://raw.githubusercontent.com/JoseGarciaMoreno/Chatarra-Estudio/main/landing2016/nomo.jpg
+
+https://raw.githubusercontent.com/JoseGarciaMoreno/Chatarra-Estudio/main/landing2016/nomo2.jpg
+
+https://raw.githubusercontent.com/JoseGarciaMoreno/Chatarra-Estudio/main/landing2016/plantilla3D_nomo.jpg
 
 
 
