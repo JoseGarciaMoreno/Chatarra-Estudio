@@ -12,6 +12,12 @@ Plan (intercalando desarrollos actuales y recopilatorios):
 
 Recopilatorio 2018
 
+Motor
+- https://godotengine.org/article/maintenance-release-godot-2-1-3/
+- https://archive.org/details/godot-2.1.3-stable
+
+- https://github.com/CycloPi/Crazy_Tron_Car_V.1.0/tree/39749e49f50ee1744a7ce45d84b24eb27f57edb3
+
 Recopilatorio 2017 cyclo pi usuario
 
 -- Borrar repositorios: webimagen, Studio, Studio2
