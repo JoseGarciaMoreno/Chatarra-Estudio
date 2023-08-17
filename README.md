@@ -13,6 +13,18 @@ Plan (intercalando desarrollos actuales y recopilatorios):
 
 ------------------------------------------
 Recopilatorio 2019
+Página de juegos 2019 -2020
+
+https://cyclopistudio.github.io/CyloPi-Studio-Web/testing_2020/cyclo-pi/studio-2019-2020.html
+
+Automation Pi Robot 2019
+199th
+Theme: Automation
+February 16th 2019 
+
+https://img.itch.zone/aW1nLzE4NjMyODQucG5n/original/1nULyx.png
+
+
 
 3D-Basic Versión: Apr 19, 2020 (evoluación para Jam)
 
