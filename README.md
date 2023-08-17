@@ -10,17 +10,8 @@ https://josegarciamoreno.github.io/Chatarra-Estudio/
 
 Plan (intercalando desarrollos actuales y recopilatorios):
 
-Recopilatorio 2018
 
-Crazy_Tron_Car: Feb 6, 2018
-- https://github.com/CycloPi/Crazy_Tron_Car_V.1.0/tree/39749e49f50ee1744a7ce45d84b24eb27f57edb3
-
-- https://raw.githubusercontent.com/JoseGarciaMoreno/Chatarra-Estudio/main/landing2016/car_clio.jpg
-
-- Motor: Godot Engine
-- https://godotengine.org/article/maintenance-release-godot-2-1-3/
-- https://archive.org/details/godot-2.1.3-stable
-
+------------------------------------------
 Recopilatorio 2019
 
 3D-Basic Versión: Apr 19, 2020 (evoluación para Jam)
