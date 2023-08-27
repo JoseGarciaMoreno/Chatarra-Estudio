@@ -12,6 +12,9 @@ Plan (intercalando desarrollos actuales y recopilatorios):
 
 
 ------------------------------------------
+
+https://josegarciamoreno.github.io/Chatarra-Estudio/landing2023/submarino/amarillo.html
+
 Recopilatorio 2019
 Página de juegos 2019 -2020
 
