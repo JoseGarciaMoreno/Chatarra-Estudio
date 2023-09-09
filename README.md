@@ -13,6 +13,8 @@ Plan (intercalando desarrollos actuales y recopilatorios):
 
 ------------------------------------------
 
+https://josegarciamoreno.github.io/Chatarra-Estudio/landing2023/ferdi/3d.html
+
 https://josegarciamoreno.github.io/Chatarra-Estudio/landing2023/sensor/acelera.html
 
 https://josegarciamoreno.github.io/Chatarra-Estudio/landing2023/submarino/amarillo.html
