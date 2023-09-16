@@ -8,16 +8,19 @@ https://chatarra-estudio.github.io/
 
 https://josegarciamoreno.github.io/Chatarra-Estudio/
 
-Plan (intercalando desarrollos actuales y recopilatorios):
 
+------------------------------------------
+Pruebas de 3d
+
+https://josegarciamoreno.github.io/Chatarra-Estudio/landing2023/ferdi/3d.html 
+
+https://josegarciamoreno.github.io/Chatarra-Estudio/landing2023/sensor/acelera.html (Probando giroscopio: no va)
+
+https://josegarciamoreno.github.io/Chatarra-Estudio/landing2023/submarino/amarillo.html Interfaz chatarrero para movil
 
 ------------------------------------------
 
-https://josegarciamoreno.github.io/Chatarra-Estudio/landing2023/ferdi/3d.html
-
-https://josegarciamoreno.github.io/Chatarra-Estudio/landing2023/sensor/acelera.html
-
-https://josegarciamoreno.github.io/Chatarra-Estudio/landing2023/submarino/amarillo.html
+Plan (intercalando desarrollos actuales y recopilatorios):
 
 Recopilatorio 2019
 Página de juegos 2019 -2020
