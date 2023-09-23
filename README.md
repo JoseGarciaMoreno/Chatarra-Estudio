@@ -12,6 +12,8 @@ https://josegarciamoreno.github.io/Chatarra-Estudio/
 ------------------------------------------
 Pruebas de 3d
 
+https://josegarciamoreno.github.io/Chatarra-Estudio/landing2023/coche/clio.html
+
 https://josegarciamoreno.github.io/Chatarra-Estudio/landing2023/ferdi/3d.html 
 
 https://josegarciamoreno.github.io/Chatarra-Estudio/landing2023/sensor/acelera.html (Probando giroscopio: no va)
