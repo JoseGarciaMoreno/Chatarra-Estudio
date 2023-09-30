@@ -8,6 +8,12 @@ https://chatarra-estudio.github.io/
 
 https://josegarciamoreno.github.io/Chatarra-Estudio/
 
+------------------------------------------
+
+Pruebas de 2d
+
+https://josegarciamoreno.github.io/Chatarra-Estudio/landing2023/panterika/index.html
+
 
 ------------------------------------------
 Pruebas de 3d
