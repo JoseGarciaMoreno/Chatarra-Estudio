@@ -8,7 +8,13 @@ https://chatarra-estudio.github.io/
 
 https://josegarciamoreno.github.io/Chatarra-Estudio/
 
+------------------------------------------
 
+Pruebando metaverso 3d con joystick
+
+https://josegarciamoreno.github.io/Chatarra-Estudio/landing2023/mega/meta1.html
+
+https://github.com/Chatarra-Estudio/Virtual-Joytick-3d/tree/823c7e681b0ab64af61c32cce584e1ba776dc9f9
 
 ------------------------------------------
 
