@@ -9,6 +9,11 @@ https://chatarra-estudio.github.io/
 https://josegarciamoreno.github.io/Chatarra-Estudio/
 
 ------------------------------------------
+Pruebando  3d con joystick cowboy
+
+https://josegarciamoreno.github.io/Chatarra-Estudio/landing2023/cow/boy.html
+
+------------------------------------------
 
 Pruebando metaverso 3d con joystick
 
