@@ -10,6 +10,8 @@ https://josegarciamoreno.github.io/Chatarra-Estudio/
 
 ------------------------------------------
 
+https://josegarciamoreno.github.io/Chatarra-Estudio/landing2023/mu/index.html
+
 https://josegarciamoreno.github.io/Chatarra-Estudio/landing2023/mu/3d.html
 
 ------------------------------------------
