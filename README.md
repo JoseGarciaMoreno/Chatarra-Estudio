@@ -9,6 +9,11 @@ https://chatarra-estudio.github.io/
 https://josegarciamoreno.github.io/Chatarra-Estudio/
 
 ------------------------------------------
+------------------------------------------
+
+https://josegarciamoreno.github.io/Chatarra-Estudio/landing2024/jam2/cuadrado.html
+
+------------------------------------------
 
 https://josegarciamoreno.github.io/Chatarra-Estudio/landing2023/mu/index.html
 
