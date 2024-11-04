@@ -12,6 +12,10 @@ https://josegarciamoreno.github.io/Chatarra-Estudio/
 
 https://josegarciamoreno.github.io/Chatarra-Estudio/landing2024/rayoluz/rayoluz.html
 
+https://raw.githubusercontent.com/JoseGarciaMoreno/Chatarra-Estudio/8543187885c478426cdba55f72b19c0b0127ff30/landing2024/rayoluz/rayo-luz.jpg
+
+https://raw.githubusercontent.com/JoseGarciaMoreno/Chatarra-Estudio/8543187885c478426cdba55f72b19c0b0127ff30/landing2024/jam2/jam2-portada.jpg 
+
 ------------------------------------------
 
 https://josegarciamoreno.github.io/Chatarra-Estudio/landing2024/jam2/cuadrado.html
