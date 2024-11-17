@@ -3,7 +3,7 @@
 // that they need an Internet connection to run the project if desired.
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
-const CACHE_VERSION = "1731800225|171044093";
+const CACHE_VERSION = "1731852015|1387228727";
 const CACHE_PREFIX = "Mjam24-sw-cache-";
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
 const OFFLINE_URL = "mjam2024.offline.html";
