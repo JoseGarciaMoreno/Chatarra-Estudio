@@ -10,6 +10,12 @@ https://josegarciamoreno.github.io/Chatarra-Estudio/
 
 ---------------------- 2025 --------------------
 
+https://github.com/Chatarra-Estudio/basic_template_25/tree/2855ea2327ff2f960a8a8eb29cce958062293dad
+
+https://onehourgamejam.com/?page=jam&jam=514
+
+https://josegarciamoreno.github.io/Chatarra-Estudio/landing2025/ohgj514/maria.html 
+
 [https probanso links](https://josegarciamoreno.github.io/Chatarra-Estudio/landing2025/ohgj513/index.html)
 
 https://josegarciamoreno.github.io/Chatarra-Estudio/landing2024/dados/dados.html
