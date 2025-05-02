@@ -1,143 +1,54 @@
-# basic_template_25
+# Black Out 2025
 
 -----------------------------------------------------------------------------------------------------------
 
-Red Rock con modelos
-
-https://github.com/Chatarra-Estudio/basic_template_25/tree/d8d0a1d8e923e9b0b6e05de6e95b4d066f8c2f86
-
------------------------------------------------------------------------------------------------------------
-
-https://huggingface.co/spaces/JeffreyXiang/TRELLIS
-
------------------------------------------------------------------------------------------------------------
-
-Sonido DJ Frage
-
-https://github.com/Chatarra-Estudio/basic_template_25/tree/7a74e4540f390a34f59d48e883946284ea905a77
-
------------------------------------------------------------------------------------------------------------
-
-Template para Blobfish
-
-https://github.com/Chatarra-Estudio/basic_template_25/tree/318e7c83f0bb9bfcf99281823ac41e799e41e601
-
-----------------------------------------------------------------------------------------------------------
-
-Plantila general
-
-https://github.com/Chatarra-Estudio/Virtual-Joytick-3d
-
----------------------------------------------------------------------------------------------------------
-
-# Truck Town
-
-This is a demo implementing different types of trucks of
-varying complexity using vehicle physics.
-
-Controls:
-
-- <kbd>Up Arrow</kbd>, <kbd>W</kbd>, <kbd>Gamepad Right Trigger</kbd>, <kbd>Gamepad A/Cross</kbd>: Accelerate
-- <kbd>Down Arrow</kbd>, <kbd>S</kbd>, <kbd>Gamepad Left Trigger</kbd>, <kbd>Gamepad B/Circle</kbd> : Brake
-- <kbd>Left Arrow</kbd>, <kbd>Gamepad Left Stick</kbd>: Steer left
-- <kbd>Right Arrow</kbd>, <kbd>Gamepad Left Stick</kbd>: Steer right
-- <kbd>U</kbd>, <kbd>Gamepad Select</kbd>, left-click speedometer: Change speedometer unit (m/s, km/h, mph)
-- <kbd>C</kbd>, <kbd>Gamepad Y/Triangle</kbd>: Change camera (exterior, interior, top-down)
-- <kbd>Escape</kbd>, <kbd>Gamepad D-Pad Up</kbd>: Go back to menu (press again to exit)
-
-Language: GDScript
-
-Renderer: Forward Plus
-
-Check out this demo on the asset library: https://godotengine.org/asset-library/asset/524
+2 de mayo de 2025
 
 ## How does it work?
 
-The base vehicle uses a
-[`VehicleBody`](https://docs.godotengine.org/en/latest/classes/class_vehiclebody.html)
-node. The trailer truck is tied together using a
-[`ConeJointTwist`](https://docs.godotengine.org/en/latest/classes/class_conetwistjoint.html)
-node, and the tow truck is tried together using a chain made of
-[`RigidBody`](https://docs.godotengine.org/en/latest/classes/class_rigidbody.html)
-nodes which are pinned together using
-[`PinJoint`](https://docs.godotengine.org/en/latest/classes/class_pinjoint.html) nodes.
-
-## Screenshots
-
-<img src="https://raw.githubusercontent.com/godotengine/godot-demo-projects/ad2cdfebd46c1e50dac5b14134fbadbef15076e8/3d/truck_town/screenshots/truck_town.webp" width="700">
-
--------------------------------------------------------------------------------------------------------
-
-
-El germen del proyecto de producir unos controles 3d surgió de un intento, no satisfactorio, para una Game Jam de pocas horas donde. El objetivo de nuestro proyecto era hacer unos controles básicos para un submarino. Finalmente tenemos una plantilla con joytick virtual t movimiento en 3d:
-
-Plantilla proyecto editable original solo movimiento con joystick virtual, para que vaya bien en movil
-
-https://github.com/Chatarra-Estudio/Virtual-Joytick-3d/tree/437d8bb987b4bb11bce31ce0715674a3b5abe02a
-Juego:
-https://josegarciamoreno.github.io/Chatarra-Estudio/landing2023/ferdi/3d.html
-
---------------------------------------------------------------------------------------------------
-
-Pruebas de 3d
-
-https://3d.csm.ai/login
-
-https://josegarciamoreno.github.io/Chatarra-Estudio/landing2023/sensor/acelera.html (Probando giroscopio: no va)
-
-https://josegarciamoreno.github.io/Chatarra-Estudio/landing2023/submarino/amarillo.html Interfaz chatarrero para movil
-
-Virtual joystick for touchscreens, with useful options.
-
-<img src="https://raw.githubusercontent.com/Chatarra-Estudio/Virtual-Joytick-3d/586eb2ef595721dd4ea31b958722a5f79b96f149/ferdi/joystick3d.jpg">
-
-
-Godot Virtual Joystick
-Aquí unos controles chatarreros de kinemático 3d con suelo plano para exportar en html.
---------------------------------------------------------------------------------------------------
-
-# Godot Virtual Joystick
-
-<img src="https://raw.githubusercontent.com/MarcoFazioRandom/Virtual-Joystick-Godot/840bf4c5b0b7df277ee58192abd9306d2e99a4f8/previews/icon.png" width="300">
-
-A simple virtual joystick for touchscreens, with useful options.
-
-GitHub Page: https://github.com/MarcoFazioRandom/Virtual-Joystick-Godot
-
-Godot Engine: https://godotengine.org
-
-### PREVIEWS:
-
-<img src="https://raw.githubusercontent.com/MarcoFazioRandom/Virtual-Joystick-Godot/840bf4c5b0b7df277ee58192abd9306d2e99a4f8/previews/preview1.png" width="500">
-
-Easy to setup:  
-<img src="https://raw.githubusercontent.com/MarcoFazioRandom/Virtual-Joystick-Godot/840bf4c5b0b7df277ee58192abd9306d2e99a4f8/previews/preview2.png" width="300">
-
-Easy to use:  
-<img src="https://raw.githubusercontent.com/MarcoFazioRandom/Virtual-Joystick-Godot/840bf4c5b0b7df277ee58192abd9306d2e99a4f8/previews/preview2.png" width="500">
 
 ### OPTIONS:  
 
-- Joystick mode: 
-	- Fixed: The joystick doesn't move. 
-	- Dynamic: Every time the joystick area is pressed, the joystick position is set on the touched position. 
 
-- Dead zone size: If the tip is inside this range the output is zero.
+Claro, aquí tienes un **resumen claro y ordenado** del proceso por el cual las renovables pueden introducir **oscilaciones pequeñas pero constantes** en la frecuencia del sistema, y cómo eso puede, en determinadas condiciones, llevar a un **colapso total (blackout)**:
 
-- Clamp zone size: The max distance the tip can reach.
+---
 
-- Visibility mode: 
-	- Always: Always visible.
-	- touchscreen only: Visible on touch screens only (will hide if the device has not a touchscreen).
+### ✅ **1. Variabilidad de renovables = fluctuaciones de generación**
 
-- Use input actions: if true the joystick will trigger the input actions created in Project -> Project Settings -> Input Map
+* A finales de abril, por ejemplo, hay **mucha producción solar y eólica** en España.
+* Esta generación es **intermitente y variable**: nubes, ráfagas de viento o calmas pueden hacer que la producción suba y baje en segundos.
 
-### HELP:  
-- The Control parent of the joystick is the area in which the joystick can move in Dynamic mode.  
-- For moving the joystick inside his area, select it, right click, turn on "Editable Children" and then change the position of the Base node.  
-- With "Editable Children" turned on you can also edit the joystick textures and colors.  
-- To be able to use the joystick with the mouse, you have to go to Project settings -> Input Devices -> Pointing, and turn on the option "emulate touch from mouse".
-- If you want multitouch, make sure to disable the option "emulate mouse from touch".
-- Create a CanvasLayer node and name it "UI", it'll contain all the UI elements, then add the Joystick scene as a child of the UI node and move it where you prefer.  
-- An example scene is provided in the "Test" folder.  
+### 🔁 **2. Se introducen oscilaciones pequeñas pero constantes en la frecuencia**
+
+* Estas variaciones hacen que la frecuencia del sistema oscile ligeramente (por ejemplo, de 50,00 Hz a 49,95 Hz o 50,05 Hz).
+* Si hay **poca inercia** en el sistema (por la desconexión de centrales térmicas o hidráulicas), estas oscilaciones **no se amortiguan bien**.
+
+### ⚖️ **3. El sistema se desequilibra gradualmente**
+
+* Si las oscilaciones no son corregidas a tiempo (por baterías, centrales de respaldo o regulación automática), el sistema **entra en inestabilidad**.
+* Los generadores y consumidores se **desincronizan**.
+* Puede comenzar una **caída de frecuencia progresiva**.
+
+### 🧨 **4. Activación de protecciones y desconexiones**
+
+* Cuando la frecuencia cae por debajo de ciertos umbrales (por ejemplo, 49,0 Hz), se activan protecciones automáticas:
+
+  * Se desconectan zonas de carga (cortes de luz localizados).
+  * Algunos generadores también se desconectan por seguridad.
+
+### 💣 **5. Efecto cascada y colapso (blackout)**
+
+* Si las desconexiones empeoran el desequilibrio, la frecuencia cae más rápido.
+* El sistema puede entrar en **modo isla** (cada parte intenta sobrevivir por separado).
+* Si ninguna zona logra estabilizarse, se llega a **frecuencia cero**: **colapso total de la red** → **apagón generalizado (blackout)**.
+
+---
+
+### 🎯 En resumen:
+
+> Las energías renovables, al ser variables, introducen pequeñas oscilaciones en la frecuencia.
+> Si el sistema no tiene suficiente **inercia ni respuesta rápida**, estas oscilaciones pueden crecer, provocar desequilibrios y terminar en un **apagón total** si no se controlan eficazmente.
+
+¿Quieres que este resumen lo pase a un esquema tipo infografía o bullet gráfico?
 
