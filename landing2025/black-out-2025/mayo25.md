@@ -2,15 +2,11 @@
 
 -----------------------------------------------------------------------------------------------------------
 
-2 de mayo de 2025
-
-## How does it work?
+## 2 de mayo de 2025
 
 
-### OPTIONS:  
-
-
-Claro, aquí tienes un **resumen claro y ordenado** del proceso por el cual las renovables pueden introducir **oscilaciones pequeñas pero constantes** en la frecuencia del sistema, y cómo eso puede, en determinadas condiciones, llevar a un **colapso total (blackout)**:
+### Proceso 
+por el cual las renovables pueden introducen **oscilaciones pequeñas pero constantes** en la frecuencia del sistema, y cómo eso puede, en determinadas condiciones, llevar a un **colapso total (blackout)**:
 
 ---
 
@@ -49,6 +45,4 @@ Claro, aquí tienes un **resumen claro y ordenado** del proceso por el cual las 
 
 > Las energías renovables, al ser variables, introducen pequeñas oscilaciones en la frecuencia.
 > Si el sistema no tiene suficiente **inercia ni respuesta rápida**, estas oscilaciones pueden crecer, provocar desequilibrios y terminar en un **apagón total** si no se controlan eficazmente.
-
-¿Quieres que este resumen lo pase a un esquema tipo infografía o bullet gráfico?
 
