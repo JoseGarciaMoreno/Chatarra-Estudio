@@ -10,6 +10,8 @@ https://josegarciamoreno.github.io/Chatarra-Estudio/
 
 ---------------------- 2026 --------------------
 
+https://josegarciamoreno.github.io/Chatarra-Estudio/landing2026/0214-basic/minion.html
+
 https://josegarciamoreno.github.io/Chatarra-Estudio/landing2026/0117-anibal/barca.html
 
 https://josegarciamoreno.github.io/Chatarra-Estudio/landing2026/murcianitosIII/murcianitos.html
