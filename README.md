@@ -10,6 +10,8 @@ https://josegarciamoreno.github.io/Chatarra-Estudio/
 
 ---------------------- 2026 --------------------
 
+https://josegarciamoreno.github.io/template_hmtl/landing2024/cuadro-mandos.html
+
 https://josegarciamoreno.github.io/Chatarra-Estudio/landing2026/0303-probando/materiales.html
 
 https://josegarciamoreno.github.io/Chatarra-Estudio/landing2026/0214-basic/minion.html
