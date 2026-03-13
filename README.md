@@ -10,6 +10,8 @@ https://josegarciamoreno.github.io/Chatarra-Estudio/
 
 ---------------------- 2026 --------------------
 
+https://josegarciamoreno.github.io/Chatarra-Estudio/landing2026/0307-ohgj567th/mago_martin.html
+
 https://josegarciamoreno.github.io/Chatarra-Estudio/landing2026/0307-ohgj567th/martin.html
 
 https://josegarciamoreno.github.io/template_hmtl/landing2024/cuadro-mandos.html
