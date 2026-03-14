@@ -4,82 +4,68 @@ Godot Engine 3.5 video game template:
 
 https://onehourgamejam.com/
 
-Juegos Chatarra Estudio (Video Games):
+# 🎮 Proyecto: Dungeon Crawler / Platformer 16-Bit Style
 
-Game´s name: https://josegarciamoreno.github.io/Chatarra-Estudio/landing2026/0228-ohgj566/matrix.html
+Este documento contiene la biblioteca de prompts y conceptos utilizados para la creación de los assets visuales de un videojuego desarrollado en **Godot 3.5**.
 
-Game Jam: One Hour Game Jam  567th
+## 🎨 Dirección Artística
+* **Estilo:** Cartoon, ilustración de cómic (influencia Dragon Ball/Toriyama) con estética de videojuegos de 16 bits.
+* **Atmósfera:** Fantasía oscura, ruinas antiguas, colores saturados y contrastados.
 
-Theme: Wizards
+---
 
-Date: March 7th 2026
+## 🧙 Personajes Protagonistas
 
-Play / Jugar:  Uno 
+### 1. El Mago Enano (Roric)
+> **Prompt:** Mago enano con rasgos de elfo-goblin, gorro de mago de punta flácida, bastón mágico con cristal. Estilo visual de ilustración cómic y videojuego de 16 bit. Fondo de castillo antiguo con arcos y pociones.
 
-Proyect production: unas 2 horas.
+### 2. Nosferatun (Héroe Alternativo)
+> **Prompt:** Personaje Nosferatu, estilo cartoon, rasgos de trol, diseño cabezón, compacto y chaparro (estilo 16-bit). Sprites de animación (idle, caminar, ataque) sin fondo, fondo blanco puro.
 
-Template: Plantilla 2026 básica General 1.3
+### 3. Nosferatun: Animación de Movimiento
+> **Prompt:** 4 sprites del personaje Nosferatu anterior: animación de correr y saltar. Estilo cartoon compacto, sin fondo, alta definición en el trazo tipo cómic.
 
-AI production: https://gemini.google.com/share/3cdd6baaea31 
+---
 
-we start with the car.
+## 👾 Enemigos y Bestiario
 
-https://josegarciamoreno.github.io/Chatarra-Estudio/landing2026/0117-v0/coche0.html
+### 1. El Dragón Antropomórfico
+> **Prompt:** Monstruo estilo dragón con escamas y grandes dientes, antropomórfico, con yelmo y armadura de hierro tosca y estropeada, portando un hacha muy grande y pesada. Estilo pixel-art detallado 16-bit.
 
-Imagen calabera game over
+### 2. La Gárgola Guerrera
+> **Prompt:** Gárgola de piedra armada con una gran espada y armadura vieja. Sin fondo, estilo cartoon 16-bit, posición de combate.
 
-https://raw.githubusercontent.com/Chatarra-Estudio/basic_template_26/5eb9ed90871d4d30158b478ac71c7953faeeabb8/basic/2d-imagen/game.png
+### 3. El Rey Cadáver (Jefe Final)
+> **Prompt:** 4 sprites de un Rey Esqueleto oscuro con corona, armadura de hueso y capas rotas. Usando magia verde nigromántica. Estilo cartoon detallado, sin fondo.
 
-https://chatarra-estudio.github.io/ 
+---
 
-https://josegarciamoreno.github.io/Chatarra-Estudio/landing2026/enano/gibli.html
+## 🏰 Escenarios y Props
+
+### 1. Fondo de Mazmorra (Tileable)
+> **Prompt:** Interior de castillo de piedra, arcos, estandartes, cadenas, antorchas y estatuas toscas. Estilo 16-bit. Seamless horizontal tiling (el borde derecho casa con el izquierdo para scroll infinito).
+
+### 2. Techos de la Ciudad (Parallax Background)
+> **Prompt:** Imagen seamless para fondo de juego. Techos de castillo y ciudad antigua bajo una luna llena. Murciélagos volando, telarañas y arañas en primer plano. Estilo visual de videojuego clásico.
+
+### 3. Puerta de Elfos en Ruinas
+> **Prompt:** Puerta monumental de piedra en ruinas, sin dintel, arco roto. Estatuas de guerreros elfos con armadura a los lados. Decorado con raíces y plantas. Vista de frente, sin fondo.
+
+---
+
+## 🛠️ Notas Técnicas (Godot 3.5 / GLES2)
+
+### Material de Magia Luminosa
+Para los ataques mágicos de los personajes en un entorno 3D exportado a HTML5:
+1.  **SpatialMaterial:** Albedo con color saturado.
+2.  **Emission:** Activado, color similar al albedo, Energy > 2.0.
+3.  **Flags:** `Unshaded` activado para evitar sombras y resaltar el brillo.
+4.  **WorldEnvironment:** Activar `Glow` (Threshold 1.0) para efecto de aura.
+
+---
+_Generado por Gemini - 2026_
 
 
-
-Algunos Modelos:
-
-
-https://github.com/Chatarra-Estudio/basic_template_26/tree/2f561726addc7b47ed018767a877eaca1e16e3a9
-
----------------------------------------------------------------------------------------------------------
-
-The template is based on the official Godot demo (link). We start with the vehicle physics.
----------------------------------------------------------------------------------------------------------
-Agradecimientos:
----------------------------------------------------------------------------------------------------------
-
----------------------------------------------------------------------------------------------------------
-
-# Truck Town
-This is a demo implementing different types of trucks of
-varying complexity using vehicle physics.
-
-Controls:
-
-- <kbd>Up Arrow</kbd>, <kbd>W</kbd>, <kbd>Gamepad Right Trigger</kbd>, <kbd>Gamepad A/Cross</kbd>: Accelerate
-- <kbd>Down Arrow</kbd>, <kbd>S</kbd>, <kbd>Gamepad Left Trigger</kbd>, <kbd>Gamepad B/Circle</kbd> : Brake
-- <kbd>Left Arrow</kbd>, <kbd>Gamepad Left Stick</kbd>: Steer left
-- <kbd>Right Arrow</kbd>, <kbd>Gamepad Left Stick</kbd>: Steer right
-- <kbd>U</kbd>, <kbd>Gamepad Select</kbd>, left-click speedometer: Change speedometer unit (m/s, km/h, mph)
-- <kbd>C</kbd>, <kbd>Gamepad Y/Triangle</kbd>: Change camera (exterior, interior, top-down)
-- <kbd>Escape</kbd>, <kbd>Gamepad D-Pad Up</kbd>: Go back to menu (press again to exit)
-
-Language: GDScript
-
-Renderer: Forward Plus
-
-Check out this demo on the asset library: https://godotengine.org/asset-library/asset/524
-
-## How does it work?
-
-The base vehicle uses a
-[`VehicleBody`](https://docs.godotengine.org/en/latest/classes/class_vehiclebody.html)
-node. The trailer truck is tied together using a
-[`ConeJointTwist`](https://docs.godotengine.org/en/latest/classes/class_conetwistjoint.html)
-node, and the tow truck is tried together using a chain made of
-[`RigidBody`](https://docs.godotengine.org/en/latest/classes/class_rigidbody.html)
-nodes which are pinned together using
-[`PinJoint`](https://docs.godotengine.org/en/latest/classes/class_pinjoint.html) nodes.
 
 ## Screenshots
 
