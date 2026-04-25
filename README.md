@@ -10,6 +10,8 @@ https://josegarciamoreno.github.io/Chatarra-Estudio/
 
 ---------------------- 2026 --------------------
 
+https://josegarciamoreno.github.io/Chatarra-Estudio/landing2026/0425-ohgj574th/1938.html
+
 https://josegarciamoreno.github.io/Chatarra-Estudio/landing2026/0425-ohgj572nd/gato.html
 
 https://josegarciamoreno.github.io/Chatarra-Estudio/landing2026/0425-ohgj570th/AM-2026.html
