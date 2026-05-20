@@ -10,6 +10,8 @@ https://josegarciamoreno.github.io/Chatarra-Estudio/
 
 ---------------------- 2026 --------------------
 
+https://josegarciamoreno.github.io/template_hmtl/landing2024/neumaticos.html
+
 https://josegarciamoreno.github.io/Chatarra-Estudio/landing2026/0516-ohgj577th/goyesca.html
 
 https://josegarciamoreno.github.io/Chatarra-Estudio/landing2026/0430-ohgj569th/table.html
