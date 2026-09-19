@@ -9,6 +9,7 @@ https://chatarra-estudio.github.io/
 https://josegarciamoreno.github.io/Chatarra-Estudio/
 
 ---------------------- 2026 --------------------
+https://josegarciamoreno.github.io/Chatarra-Estudio/landing2026/0919-ohgj595th/fallas1026.html
 
 https://josegarciamoreno.github.io/Chatarra-Estudio/landing2026/0529-ohgj575th/paris_dakar_2001.html
 
