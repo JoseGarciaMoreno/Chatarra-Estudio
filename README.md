@@ -12,6 +12,8 @@ https://josegarciamoreno.github.io/Chatarra-Estudio/
 
 https://josegarciamoreno.github.io/Chatarra-Estudio/landing2026/1121-ohgj604th/berenguer.html
 
+https://josegarciamoreno.github.io/Chatarra-Estudio/landing2026/1114-ohgj603rd/1939.html
+
 https://josegarciamoreno.github.io/Chatarra-Estudio/landing2026/1031-ohgj601st/gaumata.html
 
 https://josegarciamoreno.github.io/Chatarra-Estudio/landing2026/1003-ohgj597th/bugeando.html
