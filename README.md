@@ -10,6 +10,8 @@ https://josegarciamoreno.github.io/Chatarra-Estudio/
 
 ---------------------- 2026 --------------------
 
+https://onehourgamejam.com/data/jams/jam_604/cyclopi.png
+
 https://josegarciamoreno.github.io/Chatarra-Estudio/landing2026/1003-ohgj597th/bugeando.html
 
 https://josegarciamoreno.github.io/Chatarra-Estudio/landing2026/0919-ohgj595th/fallas1026.html
