@@ -10,6 +10,10 @@ https://josegarciamoreno.github.io/Chatarra-Estudio/
 
 ---------------------- 2026 --------------------
 
+https://josegarciamoreno.github.io/Chatarra-Estudio/landing2026/1120-imagen-pra/capo.jpeg
+
+https://raw.githubusercontent.com/JoseGarciaMoreno/Chatarra-Estudio/refs/heads/main/imagen/cuadro-mamdos.jpg
+
 https://josegarciamoreno.github.io/template_hmtl/landing2024/neumaticos.html
 
 https://raw.githubusercontent.com/JoseGarciaMoreno/Chatarra-Estudio/refs/heads/main/imagen/cuadro-mamdos.jpg
