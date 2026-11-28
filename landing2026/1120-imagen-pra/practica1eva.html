@@ -1,0 +1,491 @@
+He tomado como referencia tu hoja de prácticas de AMUSAL (2 páginas). He mantenido sus 12 puntos de revisión, organizados en tres bloques: motor general, fluidos y sistemas auxiliares. AMUSALFP EVA-1 Prá.pdf
+
+El guion sigue estos criterios:
+- Lenguaje STE: frases cortas y órdenes directas.
+- Instrucciones numeradas y secuenciales.
+- Fotografías reales de la ambulancia.
+- Advertencias de seguridad destacadas.
+- Explicaciones breves de cada comprobación.
+
+```html
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Práctica MMPV - Revisión del motor</title>
+
+<style>
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: #f2f4f6;
+    color: #252525;
+    line-height: 1.5;
+    margin: 0;
+}
+
+header {
+    background: #76232c;
+    color: white;
+    padding: 25px 15px;
+    text-align: center;
+}
+
+header h1 {
+    margin: 5px;
+    font-size: 25px;
+}
+
+header p {
+    margin: 5px;
+}
+
+main {
+    max-width: 950px;
+    margin: auto;
+    padding: 20px;
+}
+
+section {
+    background: white;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 6px #00000012;
+}
+
+h2 {
+    color: #76232c;
+    border-bottom: 2px solid #76232c;
+    padding-bottom: 7px;
+}
+
+h3 {
+    color: #76232c;
+}
+
+img {
+    width: 100%;
+    height: auto;
+    border-radius: 6px;
+    margin: 10px 0;
+}
+
+figure {
+    margin: 10px 0;
+}
+
+figcaption {
+    font-size: 14px;
+    color: #555;
+    text-align: center;
+}
+
+.paso {
+    border-left: 5px solid #76232c;
+    padding: 10px 15px;
+    margin: 12px 0;
+    background: #f7f7f7;
+}
+
+.seguridad {
+    background: #fff1d6;
+    border-left: 5px solid #e39b19;
+    padding: 15px;
+    margin: 15px 0;
+}
+
+.importante {
+    background: #fbe9e9;
+    border-left: 5px solid #bd3030;
+    padding: 15px;
+    margin: 15px 0;
+}
+
+.objetivo {
+    background: #edf4fa;
+    padding: 15px;
+    border-radius: 6px;
+}
+
+.numero {
+    display: inline-block;
+    background: #76232c;
+    color: white;
+    border-radius: 50%;
+    width: 27px;
+    height: 27px;
+    text-align: center;
+    line-height: 27px;
+    font-weight: bold;
+    margin-right: 7px;
+}
+
+footer {
+    background: #76232c;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    font-size: 13px;
+}
+
+strong {
+    color: #333;
+}
+
+@media print {
+    body {
+        background: white;
+    }
+
+    section {
+        box-shadow: none;
+        break-inside: avoid;
+    }
+}
+</style>
+</head>
+
+<body>
+
+<header>
+    <p>INSTITUTO SUPERIOR DE FORMACIÓN PROFESIONAL AMUSAL</p>
+    <h1>MANTENIMIENTO MECÁNICO PREVENTIVO DEL VEHÍCULO</h1>
+    <h2 style="color:white;border:0;">PRÁCTICA: REVISIÓN GENERAL DEL MOTOR</h2>
+    <p>Ciclo Formativo: Técnico en Emergencias Sanitarias</p>
+</header>
+
+<main>
+
+<section>
+    <h2>1. OBJETIVO DE LA PRÁCTICA</h2>
+
+    <div class="objetivo">
+        Al terminar esta práctica, debes ser capaz de:
+
+        <ul>
+            <li>Identificar los principales elementos del compartimento del motor.</li>
+            <li>Localizar los depósitos de los diferentes fluidos.</li>
+            <li>Comprobar visualmente el estado general del motor.</li>
+            <li>Realizar una revisión básica antes de utilizar la ambulancia.</li>
+            <li>Identificar posibles anomalías.</li>
+        </ul>
+    </div>
+</section>
+
+<section>
+    <h2>2. NORMAS DE SEGURIDAD</h2>
+
+    <div class="importante">
+        <strong>ATENCIÓN:</strong>
+
+        <ul>
+            <li>Inmoviliza el vehículo antes de comenzar.</li>
+            <li>Acciona el freno de estacionamiento.</li>
+            <li>Coloca la palanca de cambios en punto muerto o en posición P, según el vehículo.</li>
+            <li>No introduzcas las manos en el motor cuando esté funcionando.</li>
+            <li>No toques piezas calientes.</li>
+            <li>No abras el depósito de refrigerante con el motor caliente.</li>
+            <li>No manipules cables ni conexiones eléctricas.</li>
+            <li>Sigue siempre las indicaciones del profesor.</li>
+        </ul>
+    </div>
+
+    <p><strong>IMPORTANTE:</strong> Las comprobaciones de niveles se realizan con el motor parado y frío, sobre una superficie horizontal, siguiendo las indicaciones del fabricante.</p>
+</section>
+
+<section>
+    <h2>3. RECONOCIMIENTO DEL COMPARTIMENTO DEL MOTOR</h2>
+
+    <p>
+        Abre el capó de la ambulancia siguiendo las instrucciones del profesor.
+        Observa la distribución de los elementos del motor.
+    </p>
+
+    <figure>
+        <img src="https://josegarciamoreno.github.io/Chatarra-Estudio/landing2026/1120-imagen-pra/capo.jpeg"
+             alt="Compartimento del motor de la ambulancia">
+        <figcaption>Compartimento del motor de la ambulancia de prácticas.</figcaption>
+    </figure>
+
+    <h3>Identifica los siguientes elementos:</h3>
+
+    <ol>
+        <li>Filtro de aire.</li>
+        <li>Varilla de nivel de aceite.</li>
+        <li>Tapón de llenado de aceite.</li>
+        <li>Depósito de líquido de frenos.</li>
+        <li>Batería.</li>
+        <li>Depósito de líquido refrigerante.</li>
+        <li>Depósito de líquido limpiaparabrisas.</li>
+        <li>Motor.</li>
+        <li>Sistema de admisión de aire.</li>
+    </ol>
+
+    <div class="paso">
+        <strong>Actividad:</strong> Localiza cada elemento en el compartimento del motor.
+        Después, completa el ejercicio de identificación de la hoja de prácticas.
+    </div>
+</section>
+
+<section>
+    <h2>4. REVISIÓN GENERAL DEL MOTOR</h2>
+
+    <p>
+        Realiza una inspección visual. No desmontes ningún componente.
+    </p>
+
+    <div class="paso">
+        <span class="numero">1</span>
+        <strong>Revisión general del compartimento.</strong>
+
+        <ul>
+            <li>Comprueba que no hay objetos extraños.</li>
+            <li>Comprueba que no hay piezas sueltas.</li>
+            <li>Busca manchas de aceite u otros líquidos.</li>
+            <li>Observa si hay cables o manguitos deteriorados.</li>
+        </ul>
+    </div>
+
+    <div class="paso">
+        <span class="numero">2</span>
+        <strong>Comprobación del bloque motor.</strong>
+
+        <ul>
+            <li>Observa el estado exterior del motor.</li>
+            <li>Comprueba que no hay fugas visibles.</li>
+            <li>Busca golpes, roturas o piezas sueltas.</li>
+        </ul>
+    </div>
+
+    <div class="paso">
+        <span class="numero">3</span>
+        <strong>Comprobación del combustible.</strong>
+
+        <ul>
+            <li>Comprueba el nivel de combustible en el cuadro de mandos.</li>
+            <li>Comprueba que hay combustible suficiente para el servicio.</li>
+            <li>Si el nivel es bajo, comunícalo al responsable.</li>
+        </ul>
+    </div>
+</section>
+
+<section>
+    <h2>5. COMPROBACIÓN DE LOS FLUIDOS</h2>
+
+    <p>
+        Los fluidos permiten el funcionamiento correcto de diferentes sistemas del vehículo.
+        Localiza sus depósitos y comprueba sus niveles.
+    </p>
+
+    <div class="paso">
+        <span class="numero">4</span>
+        <strong>Líquido refrigerante.</strong>
+
+        <ul>
+            <li>Localiza el depósito de refrigerante.</li>
+            <li>Comprueba el nivel entre las marcas MIN y MAX.</li>
+            <li>Observa el aspecto del líquido.</li>
+            <li>Busca posibles fugas.</li>
+        </ul>
+
+        <div class="seguridad">
+            No abras el tapón del circuito de refrigeración con el motor caliente.
+            El líquido puede salir a presión y provocar quemaduras.
+        </div>
+    </div>
+
+    <div class="paso">
+        <span class="numero">5</span>
+        <strong>Aceite del motor.</strong>
+
+        <ul>
+            <li>Localiza la varilla de nivel.</li>
+            <li>Extrae la varilla.</li>
+            <li>Límpiala con un papel o paño.</li>
+            <li>Introduce de nuevo la varilla.</li>
+            <li>Extráela y comprueba el nivel.</li>
+            <li>El nivel debe estar entre MIN y MAX.</li>
+        </ul>
+    </div>
+
+    <div class="paso">
+        <span class="numero">6</span>
+        <strong>Líquido de frenos.</strong>
+
+        <ul>
+            <li>Localiza su depósito.</li>
+            <li>Comprueba el nivel.</li>
+            <li>Debe estar entre MIN y MAX.</li>
+            <li>Observa si hay fugas o anomalías.</li>
+        </ul>
+    </div>
+
+    <div class="paso">
+        <span class="numero">7</span>
+        <strong>Líquido limpiaparabrisas.</strong>
+
+        <ul>
+            <li>Localiza su depósito.</li>
+            <li>Comprueba que tiene líquido suficiente.</li>
+            <li>Observa el estado del depósito.</li>
+        </ul>
+    </div>
+</section>
+
+<section>
+    <h2>6. REVISIÓN DE LOS SISTEMAS AUXILIARES</h2>
+
+    <div class="paso">
+        <span class="numero">8</span>
+        <strong>Sistema de inyección.</strong>
+
+        <ul>
+            <li>Observa las conexiones visibles.</li>
+            <li>Comprueba que no hay fugas.</li>
+            <li>Busca tubos deteriorados o sueltos.</li>
+        </ul>
+    </div>
+
+    <div class="paso">
+        <span class="numero">9</span>
+        <strong>Sistema de admisión.</strong>
+
+        <ul>
+            <li>Localiza el filtro de aire.</li>
+            <li>Observa los conductos de admisión.</li>
+            <li>Comprueba que no hay obstrucciones.</li>
+            <li>Busca tubos sueltos o deteriorados.</li>
+        </ul>
+    </div>
+
+    <div class="paso">
+        <span class="numero">10</span>
+        <strong>Sistema eléctrico del motor.</strong>
+
+        <ul>
+            <li>Localiza la batería.</li>
+            <li>Observa sus conexiones.</li>
+            <li>Comprueba que los bornes están correctamente sujetos.</li>
+            <li>Busca corrosión o daños visibles.</li>
+        </ul>
+    </div>
+
+    <div class="paso">
+        <span class="numero">11</span>
+        <strong>Sistema de ventilación del habitáculo.</strong>
+
+        <ul>
+            <li>Localiza la entrada de aire.</li>
+            <li>Identifica la zona del filtro del habitáculo.</li>
+            <li>Comprueba que no hay obstrucciones visibles.</li>
+        </ul>
+    </div>
+</section>
+
+<section>
+    <h2>7. COMPROBACIÓN DEL CUADRO DE MANDOS</h2>
+
+    <p>
+        Accede al puesto de conducción.
+        Realiza la comprobación del cuadro de instrumentos siguiendo las indicaciones del profesor.
+    </p>
+
+    <figure>
+        <img src="https://raw.githubusercontent.com/JoseGarciaMoreno/Chatarra-Estudio/refs/heads/main/imagen/cuadro-mamdos.jpg"
+             alt="Cuadro de instrumentos de la ambulancia durante la comprobación de arranque">
+        <figcaption>Cuadro de instrumentos durante el chequeo inicial.</figcaption>
+    </figure>
+
+    <h3>Secuencia de comprobación:</h3>
+
+    <div class="paso">
+        <span class="numero">1</span>
+        <strong>Conecta el contacto.</strong>
+
+        <ul>
+            <li>Introduce la llave o utiliza el sistema de arranque del vehículo.</li>
+            <li>Conecta el contacto sin arrancar el motor.</li>
+            <li>Observa el cuadro de instrumentos.</li>
+        </ul>
+    </div>
+
+    <div class="paso">
+        <span class="numero">2</span>
+        <strong>Comprueba los testigos.</strong>
+
+        <ul>
+            <li>Observa qué testigos se encienden.</li>
+            <li>Comprueba que los testigos de control se iluminan durante el chequeo inicial.</li>
+            <li>Identifica los principales testigos.</li>
+        </ul>
+    </div>
+
+    <div class="paso">
+        <span class="numero">3</span>
+        <strong>Arranca el motor.</strong>
+
+        <ul>
+            <li>Comprueba que el vehículo está preparado para arrancar.</li>
+            <li>Arranca el motor siguiendo las indicaciones del profesor.</li>
+            <li>Observa el cuadro de instrumentos.</li>
+            <li>Comprueba que los testigos de advertencia se apagan según el funcionamiento normal del vehículo.</li>
+            <li>Escucha si aparecen ruidos anormales.</li>
+        </ul>
+    </div>
+
+    <div class="importante">
+        Si algún testigo de advertencia permanece encendido, no lo ignores.
+        Comunícalo al profesor y consulta el manual del vehículo.
+    </div>
+</section>
+
+<section>
+    <h2>8. FINALIZACIÓN DE LA PRÁCTICA</h2>
+
+    <p>Antes de terminar, realiza estas acciones:</p>
+
+    <ul>
+        <li>Apaga el motor.</li>
+        <li>Desconecta el contacto.</li>
+        <li>Comprueba que no quedan herramientas ni objetos en el compartimento.</li>
+        <li>Comprueba que todos los tapones están correctamente colocados.</li>
+        <li>Retira los materiales utilizados.</li>
+        <li>Cierra el capó correctamente.</li>
+        <li>Deja el vehículo en condiciones de seguridad.</li>
+    </ul>
+</section>
+
+<section>
+    <h2>9. REGISTRO DE LA REVISIÓN</h2>
+
+    <p>
+        Completa ahora la hoja de prácticas entregada por el profesor.
+    </p>
+
+    <p>
+        Anota las observaciones de cada comprobación.
+        Indica si el elemento está correcto o si presenta alguna anomalía.
+    </p>
+
+    <div class="objetivo">
+        <strong>RECUERDA:</strong>
+
+        <p>
+            Una revisión preventiva permite detectar problemas antes de utilizar
+            la ambulancia. La seguridad del vehículo también forma parte de la
+            seguridad del paciente y del equipo sanitario.
+        </p>
+    </div>
+</section>
+
+</main>
+
+<footer>
+    AMUSAL · Técnico en Emergencias Sanitarias<br>
+    Mantenimiento Mecánico Preventivo del Vehículo · Curso 2026-2027
+</footer>
+
+</body>
+</html>
+```
