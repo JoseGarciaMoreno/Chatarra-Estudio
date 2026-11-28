@@ -10,6 +10,10 @@ https://josegarciamoreno.github.io/Chatarra-Estudio/
 
 ---------------------- 2026 --------------------
 
+https://josegarciamoreno.github.io/template_hmtl/landing2024/neumaticos.html
+
+https://raw.githubusercontent.com/JoseGarciaMoreno/Chatarra-Estudio/refs/heads/main/imagen/cuadro-mamdos.jpg
+
 https://josegarciamoreno.github.io/Chatarra-Estudio/landing2026/1121-ohgj604th/berenguer.html
 
 https://josegarciamoreno.github.io/Chatarra-Estudio/landing2026/1114-ohgj603rd/1939.html
@@ -21,8 +25,6 @@ https://josegarciamoreno.github.io/Chatarra-Estudio/landing2026/1003-ohgj597th/b
 https://josegarciamoreno.github.io/Chatarra-Estudio/landing2026/0919-ohgj595th/fallas1026.html
 
 https://josegarciamoreno.github.io/Chatarra-Estudio/landing2026/0529-ohgj575th/paris_dakar_2001.html
-
-https://josegarciamoreno.github.io/template_hmtl/landing2024/neumaticos.html
 
 https://josegarciamoreno.github.io/Chatarra-Estudio/landing2026/0516-ohgj577th/goyesca.html
 
